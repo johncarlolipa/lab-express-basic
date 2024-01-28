@@ -27,7 +27,6 @@ body {
   }
 
   header {
-    background-color: #007bff;
     color: white;
     text-align: center;
     padding: 20px 0;
@@ -62,6 +61,5 @@ body {
   }
 
   h1, h2 {
-    color: #007bff;
+    color: #ff0077;
   }
-
